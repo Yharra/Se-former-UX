@@ -1,16 +1,9 @@
+# Table of contents
 
-[À propos de ce livre][1]
+* [À propos](README.md)
+* [Introduction](introduction.md)
+* [Chapitre I](chapitre-i/README.md)
+  * [Writing is nice](chapitre-i/writing-is-nice.md)
+* [Chapitre 2](chapitre-2/README.md)
+  * [\[We love feedback\]\[6\]](chapitre-2/we-love-feedback-6.md)
 
-# contenu
-* [Introduction][2]
-* [Chapitre I][3]
-	* [Writing is nice][4]
-* [Chapitre 2][5]
-	* [We love feedback][6]
-
-[1]:	README.md
-[2]:	Introduction.md
-[3]:	Chapitre%201/Sans%20titre%201
-[4]:	Chapitre%201/Sans%20titre%201
-[5]:	Chapitre%202/Sans%20titre%202
-[6]:	Chapitre%202/Sans%20titre%202
