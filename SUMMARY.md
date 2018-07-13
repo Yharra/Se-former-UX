@@ -1,6 +1,13 @@
+# Table of contents
 
-[À propos de ce livre][1]
+* [À propos](README.md)
+* [Introduction](introduction.md)
+* [Chapitre I](chapitre-i/README.md)
+  * [Writing is nice](chapitre-i/writing-is-nice.md)
+* [Chapitre 2](chapitre-2/README.md)
+  * [\[We love feedback\]\[6\]](chapitre-2/we-love-feedback-6.md)
 
+<<<<<<< HEAD
 # contenu
 * Introduction
 	* [Objectifs du livre][2]
@@ -58,3 +65,5 @@
 [2]:	Introduction/Objectifs%20du%20livre.md
 [3]:	Introduction/Les%20compe%CC%81tences%20de%20l%E2%80%99UX%20designer.md
 [4]:	Bibliographie.md
+=======
+>>>>>>> 88afaa0f9638955eb215aee1515f52cd8ede5e0c
