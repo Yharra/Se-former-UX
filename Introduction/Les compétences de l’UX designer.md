@@ -23,7 +23,7 @@ Je vais maintenant revenir sur le détail de chacune des compétences de manièr
 
 ### Stratégie design
 Le terme « Stratégie design » regroupe les enjeux business soit liée au marketing pour un produit, soit liée au contexte métier.
-- **Benchmark ** : Je dirai que ça correspond à des méthodologies de benchmark ou du type SWOT si on parle de produit, ou dans un cadre plus lié à l’UX, je parlerai de positionnement par rapport à des bonnes pratiques ou des normes.
+- **Benchmark** : Je dirai que ça correspond à des méthodologies de benchmark ou du type SWOT si on parle de produit, ou dans un cadre plus lié à l’UX, je parlerai de positionnement par rapport à des bonnes pratiques ou des normes.
 - **Mesure de la performance** : En un mot « KPI » et autres indicateurs de performances, mais aussi taux d’erreurs, facilité d’apprentissage.
 - **Définition du produit/service** : Définition d’un point de vue large des fonctions, ou des règles métiers, pour définir le produit.
 - **Objectif Business/métier** : Objectif de vente, d’abonnement et d’autre aspect commerciaux, mais aussi des objectifs métiers : qualité, nombre de dossiers traités.
@@ -34,7 +34,7 @@ Le terme « Stratégie design » regroupe les enjeux business soit liée au ma
 Le terme « ergonomie » regroupe les aspects liés au facteur humain et à la psychologie.
 - **État de l’art** : Les sujets abordés en UX et plus globalement liés au facteur humain, sont étudiés, souvent par des scientifiques ou d’autres professionnelles. Faire l’état de l’art permet d’éviter de faire des choses déjà connues.
 - **Analyse des besoins, de l’activité** : La connaissance des usages des utilisateurs et de l’activité réelle est la base. Pour cela il est nécessaire d’analyser les usages existants ou d’observer les gens travailler.
-- ** Tests, audit et autres méthodes de mesures** : Les méthodologies de mesures avec ou sans les utilisateurs sont nombreuses pour évaluer l’existant.
+- **Tests, audit et autres méthodes de mesures** : Les méthodologies de mesures avec ou sans les utilisateurs sont nombreuses pour évaluer l’existant.
 - **Analyse des données/Statistiques** : Analyser les données liées aux usages, aux tests, aux études,… De manières plus globales des connaissances en statistiques appliquées aux sciences humaines.
 - **Expérimentation, conduite d’étude** : Il est parfois nécessaire de répondre à des questions précises. Pour cela, il faut conduire des études ou mettre en place une situation expérimentale.
 - **Analyse et modélisation** : La connaissance des données issues de la psychologie cognitive et de l'approche systémique permette de comprendre et représenter les modèles mentaux iet relationnels influençant un service 
