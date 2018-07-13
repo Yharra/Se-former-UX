@@ -1,5 +1,5 @@
 
-# Compétences UX et modèle en T.
+# Les compétences de l’UX designer
 
 Avant de commencer a se former dans un métier, il est nécessaire de faire le point sur vos compétences actuelles et les compétences que vous voulez  acquérir au fur et à mesure de la formation. Je vous propose donc un modèle de compétence dit en T. 
 

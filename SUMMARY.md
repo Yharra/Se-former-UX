@@ -57,5 +57,5 @@
 
 [1]:	README.md
 [2]:	Introduction/Objectifs%20du%20livre.md
-[3]:	Introduction/Les%20compe%CC%81tences%20de%20l%E2%80%99UX%20designer.md
+[3]:	Introduction/Le%20mode%CC%80le%20en%20t.md
 [4]:	Bibliographie.md
