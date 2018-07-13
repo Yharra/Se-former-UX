@@ -57,5 +57,5 @@
 
 [1]:	README.md
 [2]:	Introduction/Objectifs%20du%20livre.md
-[3]:	Introduction/Le%20mode%CC%80le%20en%20t.md
+[3]:	introduction/les-competences-de-lux-designer.md
 [4]:	Bibliographie.md
