@@ -58,5 +58,5 @@
 [1]:	README.md
 [2]:	Introduction/Objectifs%20du%20livre.md
 [3]:	introduction/les-competences-de-lux-designer.md
-[4]:	introduction-a-lux/petite-histoire-de-lux.md
+[4]:	introduction-a-lux/histoire.md
 [5]:	Bibliographie.md
