@@ -7,7 +7,7 @@
 	* [Objectifs du livre][2]
 	* [Les compétences de l’UX designer][3]
 * Introduction à l’UX
-	* Petite histoire de l’UX
+	* [Petite histoire de l’UX][4]
 	* Un exemple de projet
 * Connaissance des utilisateurs
 	* Quelques notions de psychologie
@@ -53,9 +53,10 @@
 	* Objets connectés
 	* Créer un guidelines
 * Annexes
-	* [Bibliographie][4]
+	* [Bibliographie][5]
 
 [1]:	README.md
 [2]:	Introduction/Objectifs%20du%20livre.md
 [3]:	introduction/les-competences-de-lux-designer.md
-[4]:	Bibliographie.md
+[4]:	Introduction%20a%CC%80%20l'UX/Histoire.md
+[5]:	Bibliographie.md
