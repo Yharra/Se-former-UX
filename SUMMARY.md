@@ -8,7 +8,8 @@
 	* [Les compétences de l’UX designer][3]
 * Introduction à l’UX
 	* [Petite histoire de l’UX][4]
-	* Un exemple de projet
+	* [Un exemple de projet][5]
+	* L’UX et l’innovation
 * Connaissance des utilisateurs
 	* Quelques notions de psychologie
 	* Réaliser des entretiens avec les utilisateurs
@@ -53,10 +54,11 @@
 	* Objets connectés
 	* Créer un guidelines
 * Annexes
-	* [Bibliographie][5]
+	* [Bibliographie][6]
 
 [1]:	README.md
 [2]:	Introduction/Objectifs%20du%20livre.md
 [3]:	introduction/les-competences-de-lux-designer.md
 [4]:	introduction-a-lux/histoire.md
-[5]:	Bibliographie.md
+[5]:	introduction-a-lux/Exemple.md
+[6]:	Bibliographie.md

@@ -108,7 +108,7 @@ Cela regroupe les compétences nécessaires pour travailler en étant à l’éc
 - **Facilitateur** : Le rôle de facilitateur permet de gérer des groupes de travail et de faire émerger des idées.
 - **Formateur** : Former les autres, transmettre ces connaissances, faire évoluer les pratiques et les savoir-faire.
 
-## Comment utiliser ce modèle ? 
+## Comment utiliser ce modèle ?
 La première étape va donc être d’évaluer vos compétences sur les divers axes. En fonction de votre parcours, vous serez plus ou moins fort sur certains et plus faibles sur d’autres. Le but de ce livre va être de vous faire progresser essentiellement sur les axes Ergonomie, UX, Architecture de l’information et conception de l’interaction. Ça n’exclut pas les autres axes qui seront aussi évoqués quand c’est nécessaire.
 
 Le modèle en T permet donc d’avoir des profils suivant les compétences les personnes et leurs histoires. Les profils peuvent être utilisé de différentes manières. Vous pouvez aussi faire un profil attendu pour un poste et voir comment les candidats, ou vous même, correspondent ou non au profil. Sur un projet, vous pouvez vous assurer que les personnes misent sur le projet se complètent et vont répondre au besoin.
@@ -118,6 +118,10 @@ Malgré les modifications apportées, plusieurs choses apparaissent dans ce mod�
 Par exemple, « Recherches/Analyse des données » est présent dans presque toutes les colonnes alors que ça me paraît pas vraiment pertinent. L’analyse est souvent intégrée dans les autres compétences.
 Sur la compétence « Guidelines de l’interface utilisateur » il y a en réalité une somme de connaissances importantes avec plusieurs niveaux qui rejoignent d’autres compétences. La conception d’une application est spécifique, mais si on conçoit un service de type applicatif (un webmail par exemple) on va reprendre certaines règles. De même pour faire un formulaire sur un site Web responsive ou dans une app mobile on va reprendre les mêmes modèles d’interactions.
 Sur les compétences liées aux contenus, à la technique, ou au graphisme,  le découpage me paraît un peu arbitraire ou pas forcément à jour vis à vis des évolutions de ces métiers.
+
+# À retenir
+- Ce modèle permet d’établir son profil de compétences sans rentrer dans des polémiques sur ce qu’est un « vrai » UX Designer.
+- Il peut être utilisé de différentes manières afin de gérer par exemple une équipe ou les intervenants sur un projet. Ce modèle n’est pas figé et doit pouvoir s’adapter à votre contexte.
 
 [^1]:	[https://methodbrain.com/dsia-research/ux-design-practice-verticals/][1]
 

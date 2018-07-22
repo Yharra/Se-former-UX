@@ -1,0 +1,19 @@
+- Observer l’existant
+- Analyse de l’activité réelle prescrite
+- Contexte d’usage
+- Le succès de la tâche : l’utilisateur, le contexte, des outils, la tâche
+- L’utilisateur, varation inter/intra
+-  Les processus cognitif
+	- Mémoire
+	- Traitement de l’information
+	- Représentation mentale
+	- Planification
+	- Apprentissage
+	- Résolutions de problèmes
+	- Vision
+	- Langage
+- La perception
+	- 2 exercices
+	- La perception des couleurs
+- Théorie de la gestalt
+- La mémoire
