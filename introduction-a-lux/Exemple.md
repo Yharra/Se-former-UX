@@ -19,12 +19,14 @@ Le projet a débuté vers 2008, avec les premiers éléments de conception. Il a
 	Si vous recherchez des articles scientifiques, il existe des bibliothèque en ligne comme https://dl.acm.org [dl.acm.org]. Une fois le résumé de l’article trouvé, une recherche sur le titre ou les auteurs permet souvent de trouver l’article en entier. Les auteurs publient fréquement leurs articles sur leurs sites professionels.
 
 ![3 personnes avachies dans un canapée qui regardent la télévision.][image-1]
+
 Il ressort de cette littérature que la situation d’usage se caractérise par les éléments suivants :
 - Un usage collectif : L’usage de la télévision est essentiellement collectif notamment en début de soirée. La télévision reste un moment d’échange et ludique. Elle devient plus personnelle en fin de soirée. C’est une différence majeure avec l’ordinateur qui est lui très personnel. Cela signifie, par exemple, que les services nécessitant une certaine confidentialité (Un adolescent n’ira pas utiliser Facebook au milieu du salon.) ne seront pas utilisés sur la télévision.
 - Une attention réduite, une attitude relâchée : L’utilisateur va avoir une attitude détendue devant la télévision. Son attention sera moindre, ainsi que son activité cognitive. Il prendra moins d’initiatives et se lassera plus facilement des tâches complexes. Tout problème d’ergonomie se soldera donc probablement par un abandon.
 - Une utilisation routinière : Les utilisateurs devant la télévision ont des habitudes. Cette routine permet aussi de se relaxer.
 - Un nombre de choix limité : Ils regardent régulièrement les mêmes chaînes à des moments similaires. Ils connaissent le numéro des chaînes qu’ils regardent, ainsi que le moyen de les atteindre rapidement.
 - Une ambiance tamisée : La télévision est souvent regardée dans une pièce avec un éclairage réduit.
+
 Ces usages peuvent croisées avec d’autres données comme les statistiques sur les temps d’utilisation des différents médias publié par Médiamétrie, ou des observations in-situ.
 
 
