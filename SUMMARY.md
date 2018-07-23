@@ -1,64 +1,56 @@
 # Table of contents
 
-* [À propos][1]
+* [À propos](README.md)
+* [Introduction](introduction/README.md)
+  * [Objectifs du livre](introduction/objectifs-du-livre.md)
+  * [Les compétences de l’UX designer](introduction/les-competences-de-lux-designer.md)
+* [Introduction à l’UX](introduction-a-lux/README.md)
+  * [Petite histoire de l’UX](introduction-a-lux/histoire.md)
+  * [Un exemple de projet](introduction-a-lux/exemple.md)
+  * [L’UX et l’innovation](introduction-a-lux/lux-et-linnovation.md)
+* [Connaissance des utilisateurs](connaissance-des-utilisateurs/README.md)
+  * [Quelques notions de psychologie](connaissance-des-utilisateurs/quelques-notions-de-psychologie.md)
+  * [Réaliser des entretiens avec les utilisateurs](connaissance-des-utilisateurs/realiser-des-entretiens-avec-les-utilisateurs.md)
+  * [Des entretiens aux personas](connaissance-des-utilisateurs/des-entretiens-aux-personas.md)
+  * [Restituer les usages](connaissance-des-utilisateurs/restituer-les-usages.md)
+* [Concevoir pour le web](concevoir-pour-le-web/README.md)
+  * [Les bases de la conception](concevoir-pour-le-web/les-bases-de-la-conception.md)
+  * [Accessibilité, Qualité web](concevoir-pour-le-web/accessibilite-qualite-web.md)
+  * [L’architecture de l’information](concevoir-pour-le-web/larchitecture-de-linformation.md)
+  * [Les difficultés pour les utilisateurs](concevoir-pour-le-web/les-difficultes-pour-les-utilisateurs/README.md)
+    * [Les formulaires](concevoir-pour-le-web/les-difficultes-pour-les-utilisateurs/les-formulaires.md)
+    * [Le tunnel de commande](concevoir-pour-le-web/les-difficultes-pour-les-utilisateurs/le-tunnel-de-commande.md)
+  * [Construire une stratégie de Persuasive Design](concevoir-pour-le-web/construire-une-strategie-de-persuasive-design.md)
+* [Evaluer l’existant](evaluer-lexistant/README.md)
+  * [sans les utilisateurs : audit, qualité web](evaluer-lexistant/sans-les-utilisateurs-audit-qualite-web.md)
+  * [avec les utilisateurs](evaluer-lexistant/avec-les-utilisateurs/README.md)
+    * [les tests utilisateurs](evaluer-lexistant/avec-les-utilisateurs/les-tests-utilisateurs.md)
+    * [les questionnaires](evaluer-lexistant/avec-les-utilisateurs/les-questionnaires.md)
+* [Wireframe](wireframe/README.md)
+  * [Notions de mise en page](wireframe/notions-de-mise-en-page.md)
+  * [Typographie](wireframe/typographie.md)
+  * [Iconographie](wireframe/iconographie.md)
+  * [Réaliser des Wireframes](wireframe/realiser-des-wireframes.md)
+  * [La chaîne de production](wireframe/la-chaine-de-production.md)
+* [Design de service](design-de-service/README.md)
+  * [Concevoir un atelier de co-conception](design-de-service/concevoir-un-atelier-de-co-conception.md)
+  * [Design sprint](design-de-service/design-sprint.md)
+  * [Restituer les ateliers](design-de-service/restituer-les-ateliers.md)
+* [Enrichir ses connaissances sur les utilisateurs](enrichir-ses-connaissances-sur-les-utilisateurs/README.md)
+  * [Statistiques et expérimentations](enrichir-ses-connaissances-sur-les-utilisateurs/statistiques-et-experimentations.md)
+  * [Psychologie appliqué à l’UX](enrichir-ses-connaissances-sur-les-utilisateurs/psychologie-applique-a-lux.md)
+* [Concevoir une application](concevoir-une-application/README.md)
+  * [Sur mobile](concevoir-une-application/sur-mobile.md)
+  * [Dans un éco-système](concevoir-une-application/dans-un-eco-systeme.md)
+* [Stratégie UX](strategie-ux/README.md)
+  * [Construire ses propres outils](strategie-ux/construire-ses-propres-outils.md)
+  * [Agile et ux](strategie-ux/agile-et-ux.md)
+  * [Comment faire entrer l’UX en entreprise ?](strategie-ux/comment-faire-entrer-lux-en-entreprise.md)
+  * [Design et éthique](strategie-ux/design-et-ethique.md)
+  * [Vers un design humain](strategie-ux/vers-un-design-humain.md)
+* [Concevoir pour un nouveau support](concevoir-pour-un-nouveau-support/README.md)
+  * [Objets connectés](concevoir-pour-un-nouveau-support/objets-connectes.md)
+  * [Créer un guidelines](concevoir-pour-un-nouveau-support/creer-un-guidelines.md)
+* [Annexes](annexes/README.md)
+  * [\[Bibliographie\]\[6\]](annexes/bibliographie-6.md)
 
-# contenu
-* Introduction
-	* [Objectifs du livre][2]
-	* [Les compétences de l’UX designer][3]
-* Introduction à l’UX
-	* [Petite histoire de l’UX][4]
-	* [Un exemple de projet][5]
-	* L’UX et l’innovation
-* Connaissance des utilisateurs
-	* Quelques notions de psychologie
-	* Réaliser des entretiens avec les utilisateurs
-	* Des entretiens aux personas
-	* Restituer les usages
-* Concevoir pour le web
-	* Les bases de la conception
-	* Accessibilité, Qualité web
-	* L’architecture de l’information
-	* Les difficultés pour les utilisateurs
-		* Les formulaires
-		* Le tunnel de commande
-	* Construire une stratégie de Persuasive Design
-* Evaluer l’existant
-	* sans les utilisateurs : audit, qualité web
-	* avec les utilisateurs
-		* les tests utilisateurs
-		* les questionnaires
-* Wireframe
-	* Notions de mise en page 
-	* Typographie
-	* Iconographie
-	* Réaliser des Wireframes
-	* La chaîne de production
-* Design de service
-	* Concevoir un atelier de co-conception
-	* Design sprint
-	* Restituer les ateliers
-* Enrichir ses connaissances sur les utilisateurs
-	* Statistiques et expérimentations
-	* Psychologie appliqué à l’UX
-* Concevoir une application
-	* Sur mobile
-	* Dans un éco-système
-* Stratégie UX
-	* Construire ses propres outils
-	* Agile et ux
-	* Comment faire entrer l’UX en entreprise ?
-	* Design et éthique
-	* Vers un design humain
-*  Concevoir pour un nouveau support
-	* Objets connectés
-	* Créer un guidelines
-* Annexes
-	* [Bibliographie][6]
-
-[1]:	README.md
-[2]:	Introduction/Objectifs%20du%20livre.md
-[3]:	introduction/les-competences-de-lux-designer.md
-[4]:	introduction-a-lux/histoire.md
-[5]:	introduction-a-lux/Exemple.md
-[6]:	Bibliographie.md
