@@ -1,2 +1,0 @@
-# Introduction à l’UX
-

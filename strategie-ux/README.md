@@ -1,2 +1,0 @@
-# Stratégie UX
-

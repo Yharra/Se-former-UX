@@ -1,2 +1,0 @@
-# Statistiques et expérimentations
-

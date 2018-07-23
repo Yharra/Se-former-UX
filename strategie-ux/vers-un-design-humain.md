@@ -1,2 +1,0 @@
-# Vers un design humain
-

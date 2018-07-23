@@ -1,2 +1,0 @@
-# Connaissance des utilisateurs
-
