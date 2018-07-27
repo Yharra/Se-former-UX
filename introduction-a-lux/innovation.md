@@ -1,1 +1,0 @@
-# L’innovation centrée sur l’utilisateur
