@@ -68,7 +68,7 @@ En prenant en compte les usages et le contexte, on peut expliquer la phase suiva
 ### La télécommande
 Pour concevoir la télécommande, il a fallut combiner les usages des utilisateurs qui ont donnés lieu à une étude spécifique et les besoins fonctionnels. Il faut aussi prendre en compte que certaines de ces fonctionnalités sont très courantes, par exemple, naviguer dans des listes, que ça soit celle des chaînes ou des listes de vidéo à la demande. À l’inverse, certaines interactions sont connues pour être compliquées comme la saisie du texte, quelque soit le moyen utilisé, clavier « SMS » ou clavier virtuel.
 
-![](images/telecomandes.png)
+![](images/telecommande.png)
 
 Le choix a donc été fait d’une télécommande avec un nombre minimum de touches :
 - Un pavé numérique pour saisir les numéros de chaînes, les codes confidentiels ou le texte en mode « SMS ».
@@ -175,23 +175,23 @@ Par défaut, l’utilisateur accède au service par l’écran de présentation 
 
 Les écrans, enfin ! Le titre des programmes étant un élément important de choix, une part importante de l’écran est dédiée à la liste. Un effet de zoom permet une bonne lisibilité du titre sélectionné tout en conservant une liste suffisamment longue.
 
-![](images/tvepg1.png "Présentation par chaîne")
+![](images/tvepg1.jpg "Présentation par chaîne")
 
 La télévision est toujours dans une petite vignette en bas à gauche, afin que l’utilisateur puisse utiliser le service pendant les publicités par exemple. Le son est aussi toujours présent.
 
-![](images/tvepg2.png "Une chaîne sans Tv à la demande.")
+![](images/tvepg2.%20jpg "Une chaîne sans Tv à la demande.")
 
 Un programme enregistré se retrouve accessible même sur une chaîne ne disposant pas de “Tv à la demande”.
 
-![](images/tvepg4.png "Le menu de commande sur la liste.")
+![](images/tvepg4.%20jpg "Le menu de commande sur la liste.")
 
 En appuyant sur « ok », le menu de commande vient s’afficher sur le contenu afin de garder le contexte. Les items suivis d’un “\>\>” quitte le service, ceux suivis de “…” ouvrent un dialogue.
 
-![](images/tvepg5.png "Présentation par programme.")
+![](images/tvepg5.%20jpg "Présentation par programme.")
 
 La vue par programme présente le résumé. Les touches haut/bas permettent toujours d’afficher le programme précédent/suivant.
 
-![](images/tvepg6.png "Le menu de commande sur un programme.")
+![](images/tvepg6.%20jpg "Le menu de commande sur un programme.")
 
 Le menu de commande  est similaire à celui de la présentation en liste. Les items non actifs peuvent être grisés. Le menu est alors permanent et stable.
 
