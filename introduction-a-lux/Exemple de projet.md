@@ -179,19 +179,19 @@ Les écrans, enfin ! Le titre des programmes étant un élément important de ch
 
 La télévision est toujours dans une petite vignette en bas à gauche, afin que l’utilisateur puisse utiliser le service pendant les publicités par exemple. Le son est aussi toujours présent.
 
-![](images/tvepg2.%20jpg "Une chaîne sans Tv à la demande.")
+![](images/tvepg2.jpg "Une chaîne sans Tv à la demande.")
 
 Un programme enregistré se retrouve accessible même sur une chaîne ne disposant pas de “Tv à la demande”.
 
-![](images/tvepg4.%20jpg "Le menu de commande sur la liste.")
+![](images/tvepg4.jpg "Le menu de commande sur la liste.")
 
 En appuyant sur « ok », le menu de commande vient s’afficher sur le contenu afin de garder le contexte. Les items suivis d’un “\>\>” quitte le service, ceux suivis de “…” ouvrent un dialogue.
 
-![](images/tvepg5.%20jpg "Présentation par programme.")
+![](images/tvepg5.jpg "Présentation par programme.")
 
 La vue par programme présente le résumé. Les touches haut/bas permettent toujours d’afficher le programme précédent/suivant.
 
-![](images/tvepg6.%20jpg "Le menu de commande sur un programme.")
+![](images/tvepg6.jpg "Le menu de commande sur un programme.")
 
 Le menu de commande  est similaire à celui de la présentation en liste. Les items non actifs peuvent être grisés. Le menu est alors permanent et stable.
 
