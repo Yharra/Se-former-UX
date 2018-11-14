@@ -18,7 +18,7 @@ Le projet a débuté vers 2008, avec les premiers éléments de conception. Il a
 
 	Si vous recherchez des articles scientifiques, il existe des bibliothèques en ligne comme https://dl.acm.org [dl.acm.org]. Une fois le résumé de l’article trouvé, une recherche sur le titre ou les auteurs permet souvent de trouver l’article en entier. Les auteurs publient fréquemment leurs articles sur leurs sites professionnels.
 
-![]()
+![](images/boudu.jpg)
 
 Il ressort de cette littérature que la situation d’usage se caractérise par les éléments suivants :
 - Un usage collectif : L’usage de la télévision est essentiellement collectif notamment en début de soirée. La télévision reste un moment d’échange et ludique. Elle devient plus personnelle en fin de soirée. C’est une différence majeure avec l’ordinateur qui est lui très personnel. Cela signifie, par exemple, que les services nécessitant une certaine confidentialité (Un adolescent n’ira pas utiliser Facebook au milieu du salon.) ne seront pas utilisés sur la télévision.
@@ -39,7 +39,7 @@ Comment procède-t-on pour déterminer la taille des caractères ? Il faut déj
 
 > « Les caractères latins doivent avoir une hauteur minimale de 16′ d’arc ; il faut que le système ait la capacité de fournir une hauteur de caractère de 20′ à 22′ d’arc. »
 
-![]()
+![](images/angle.png)
 
 Pour calculer l’angle formé par l’œil de l’utilisateur avec la hauteur du caractère, en situation réelle, il va falloir connaître la hauteur de la télévision et la distance entre l’utilisateur et sa télévision. Une fois que l’on a ces distances avec un peu de trigonométries et de statistiques, on pourra calculer la taille des caractères.
 
@@ -49,18 +49,17 @@ Pour synthétiser la méthodologie ça donne le processus suivant :
 - De là un calcul statistique permet de connaître la distribution dans la population du rapport entre la hauteur de la télévision et la distance entre la télévision et l’utilisateur.
 - Ça permet de calculer l’angle de vision de la télévision, et en fonction de la résolution de celle-ci de déterminer la taille des caractères.
 
-![]()
+![](images/Distance.png)
 
 Donc là, l’étape clef, c’est de demander aux utilisateurs de mesurer la hauteur de leur télévision et la distance télévision-canapé. Il faut faire un questionnaire et le faire remplir par une population représentative. La conception du formulaire doit permettre de s’assurer que l’utilisateur va bien comprendre la consigne et mesurer les bonnes distances. La diffusion n’est pas un problème pour un opérateur qui a une base de clients importante et représentative.
 
 ### Les résultats
 
-![]()
+![](images/Effectifs.png)
 
 Les résultats de cette étude ont été publiés, dans sa version la plus récente en 2017 (Bertolus, 2017)[^1]. Ils montrent que pour une télévision HD 1080, si on veut que 70% de la population puisse lire facilement, sans se lever ou se pencher en avant, il faut écrire avec une taille de caractères entre 55 et 72 pixels. C’est bien supérieur à ce qui était recommandé par ailleurs par exemple chez Google. En termes de quantités d’informations qu’il est possible d’afficher sur la télévision, on est assez proche de la densité d’un téléphone mobile.
 
-![]()
-
+![](images/mobile-tv.png)
 
 ## La conception de l’IHM
 En prenant en compte les usages et le contexte, on peut expliquer la phase suivante de conception de l’IHM[^2], Celle-ci se compose de la partie matérielle notamment avec la télécommande et la partie numérique qui va s’afficher sur la télévision.
@@ -68,7 +67,7 @@ En prenant en compte les usages et le contexte, on peut expliquer la phase suiva
 ### La télécommande
 Pour concevoir la télécommande, il a fallu combiner les usages des utilisateurs qui ont donné lieu à une étude spécifique et les besoins fonctionnels. Il faut aussi prendre en compte que certaines de ces fonctionnalités sont très courantes, par exemple, naviguer dans des listes, que ça soit celle des chaînes ou des listes de vidéo à la demande. À l’inverse, certaines interactions sont connues pour être compliquées comme la saisie du texte, quel que soit le moyen utilisé, clavier « SMS » ou clavier virtuel.
 
-![]()
+![](images/telecommande.png)
 
 Le choix a donc été fait d’une télécommande avec un nombre minimum de touches :
 - Un pavé numérique pour saisir les numéros de chaînes, les codes confidentiels ou le texte en mode « SMS ».
@@ -89,7 +88,7 @@ En parallèle des choix fait pour la télécommande, il faut poser les bases de 
 - Les interfaces en langages de commandes ; Elles nécessitent de la part de l’utilisateur d’apprendre les commandes, mais une fois celle-ci maîtrisée, ça peut être très efficient.
 Les interfaces hiérarchiques sont donc celles qui conviennent le mieux pour la télévision.
 
-![]()
+![](images/arbo.png)
 
 L’interface va se présenter sous la forme d’une arborescence. Un écran d’accueil à la racine, permet de choisir parmi les différents services pour atteindre le contenu avec si besoin plusieurs niveaux. Une fois sur le contenu, la validation permet soit d’agir sur celui-ci avec si besoin un écran de dialogue : pour louer une VOD puis la lire, soit d’afficher des propriétés comme les sous-titres ou les informations.
 
@@ -132,7 +131,7 @@ Gardez à l’esprit cette image d’un tableau avec certaines cases plus ou moi
 
 La référence en matière de grille des programmes ce sont les magazines TV. Ils présentent l’essentiel de la presse papiers avec 17 millions d’exemplaires hebdomadaires. L’organisation de ces grilles est relativement semblable.
 
-![]()
+![](images/GrilleHertz.jpg)
 
 Les chaînes sont affichées à l’horizontale, le temps à la verticale. L’espace est structuré en fonction de l’audience et de la récurrence.
 - Le matin ou l’après-midi, l’audience est faible. Peu d’espace est consacré à ces programmes.
@@ -147,7 +146,7 @@ Sur la télévision, les chaînes, souvent 5 ou 6, sont affichées à la vertica
 #### La conception.
 La grille des programmes peut être formalisée sous une forme graphique simple, quelques règles viennent compléter cela pour aboutir à un premier schéma d’interface. La navigation dans la grille est par contre un point complexe où deux solutions sont envisageables.
 
-![]()
+![](images/vuegrille.gif)
 
 Une grille des programmes est donc un tableau, présentant des lignes (le temps) et des colonnes (les chaînes). L’utilisateur peut observer ce tableau de loin, au niveau global de la chaîne ou il peut zoomer et regarder au niveau du programme. Cela implique que les règles de navigations sont strictement identiques dans les deux vues car l’utilisateur est sur le même “objet”, la grille. À l’horizontal, l’utilisateur change de chaînes, à la verticale il navigue dans le temps.
 
@@ -175,23 +174,23 @@ Par défaut, l’utilisateur accède au service par l’écran de présentation 
 
 Les écrans, enfin ! Le titre des programmes étant un élément important de choix, une part importante de l’écran est dédiée à la liste. Un effet de zoom permet une bonne lisibilité du titre sélectionné tout en conservant une liste suffisamment longue.
 
-![]()
+![](images/tvepg1.jpg)
 
 La télévision est toujours dans une petite vignette en bas à gauche, afin que l’utilisateur puisse utiliser le service pendant les publicités par exemple. Le son est aussi toujours présent.
 
-![]()
+![](images/tvepg2.jpg)
 
 Un programme enregistré se retrouve accessible même sur une chaîne ne disposant pas de “TV à la demande”.
 
-![]()
+![](images/tvepg4.jpg)
 
 En appuyant sur « ok », le menu de commande vient s’afficher sur le contenu afin de garder le contexte. Les items suivis d’un “\>\>” quitte le service, ceux suivis de “…” ouvrent un dialogue.
 
-![]()
+![](images/tvepg5.jpg)
 
 La vue par programme présente le résumé. Les touches haut/bas permettent toujours d’afficher le programme précédent/suivant.
 
-![]()
+![](images/tvepg6.jpg)
 
 Le menu de commande est similaire à celui de la présentation en liste. Les items non actifs peuvent être grisés. Le menu est alors permanent et stable.
 
