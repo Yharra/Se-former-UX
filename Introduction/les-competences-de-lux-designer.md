@@ -1,11 +1,11 @@
 
 # Les compétences de l’UX designer
 
-Avant de commencer a se former dans un métier, il est nécessaire de faire le point sur vos compétences actuelles et les compétences que vous voulez  acquérir au fur et à mesure de la formation. Je vous propose donc un modèle de compétence dit en T. 
+Avant de commencer à se former dans un métier, il est nécessaire de faire le point sur vos compétences actuelles et les compétences que vous voulez acquérir au fur et à mesure de la formation. Je vous propose donc un modèle de compétence dit en T.
 
 Ce modèle est issu d’une réflexion autour du métier « d’architecte de l’information » (Davis, 2011[^1]) qui a dérivé vers l’UX. Le principe est relativement simple, pour faire un « bon UX designer », il faut avoir des connaissances plus ou moins avancées sur tous les domaines proches, horizontaux et être expert sur un à trois domaines spécialisés, verticaux.
 
-Par rapport au modèle initial, je propose quelques modifications dans l’organisation des compétences en regroupant certaines et en proposant d’autres nouvelles. Ces nouvelles compétences sont liées à la communication et  la gestion de projet. Ces adaptations correspondent à la réflexion que j’ai pu avoir dans le cadre du mastère en UX Design que j’ai crée. Mais ce modèle n’est pas forcément gravé dans le marbre, il peut être intéressant de le faire évoluer. 
+Par rapport au modèle initial, je propose quelques modifications dans l’organisation des compétences en regroupant certaines et en proposant d’autres nouvelles. Ces nouvelles compétences sont liées à la communication et la gestion de projet. Ces adaptations correspondent à la réflexion que j’ai pu avoir dans le cadre du mastère en UX Design que j’ai créé. Mais ce modèle n’est pas forcément gravé dans le marbre, il peut être intéressant de le faire évoluer. 
 
 ## Le niveau de compétence
 Pour chaque compétence, on peut mesurer un niveau de compétence. J’avais initialement noté les niveaux en non acquis, en cours d’acquisition et acquis. Mais ce n’est pas très parlant et concret. Par exemple, mes étudiants ont des cours sur certains domaines comme le HTML/CSS et la qualité Web. Mais en une semaine, ils ne vont pas devenir experts. Ils comprendront les bases, auront retenu quelques points clefs, se souviendront de comment procéder et où chercher les informations leurs manquants. Donc la notation proposée par le modèle en T me paraît plus adaptée et plus propice à une évolution de novice à expert.
@@ -111,18 +111,16 @@ Cela regroupe les compétences nécessaires pour travailler en étant à l’éc
 ## Comment utiliser ce modèle ?
 La première étape va donc être d’évaluer vos compétences sur les divers axes. En fonction de votre parcours, vous serez plus ou moins fort sur certains et plus faibles sur d’autres. Le but de ce livre va être de vous faire progresser essentiellement sur les axes Ergonomie, UX, Architecture de l’information et conception de l’interaction. Ça n’exclut pas les autres axes qui seront aussi évoqués quand c’est nécessaire.
 
-Le modèle en T permet donc d’avoir des profils suivant les compétences les personnes et leurs histoires. Les profils peuvent être utilisé de différentes manières. Vous pouvez aussi faire un profil attendu pour un poste et voir comment les candidats, ou vous même, correspondent ou non au profil. Sur un projet, vous pouvez vous assurer que les personnes misent sur le projet se complètent et vont répondre au besoin.
+Le modèle en T permet donc d’avoir des profils suivant les compétences les personnes et leurs histoires. Les profils peuvent être utilisés de différentes manières. Vous pouvez aussi faire un profil attendu pour un poste et voir comment les candidats, ou vous-mêmes, correspondent ou non au profil. Sur un projet, vous pouvez vous assurer que les personnes misent sur le projet se complètent et vont répondre au besoin.
 
 ## Analyse de ce modèle
 Malgré les modifications apportées, plusieurs choses apparaissent dans ce modèle et je pense qu’il est encore en mesure d’évoluer. C’est un modèle très orienté « Web » au départ, une évolution vers quelque chose de plus « générique » me paraît possible.
 Par exemple, « Recherches/Analyse des données » est présent dans presque toutes les colonnes alors que ça me paraît pas vraiment pertinent. L’analyse est souvent intégrée dans les autres compétences.
 Sur la compétence « Guidelines de l’interface utilisateur » il y a en réalité une somme de connaissances importantes avec plusieurs niveaux qui rejoignent d’autres compétences. La conception d’une application est spécifique, mais si on conçoit un service de type applicatif (un webmail par exemple) on va reprendre certaines règles. De même pour faire un formulaire sur un site Web responsive ou dans une app mobile on va reprendre les mêmes modèles d’interactions.
-Sur les compétences liées aux contenus, à la technique, ou au graphisme,  le découpage me paraît un peu arbitraire ou pas forcément à jour vis à vis des évolutions de ces métiers.
+Sur les compétences liées aux contenus, à la technique, ou au graphisme, le découpage me paraît un peu arbitraire ou pas forcément à jour vis-à-vis des évolutions de ces métiers.
 
 # À retenir
 - Ce modèle permet d’établir son profil de compétences sans rentrer dans des polémiques sur ce qu’est un « vrai » UX Designer.
 - Il peut être utilisé de différentes manières afin de gérer par exemple une équipe ou les intervenants sur un projet. Ce modèle n’est pas figé et doit pouvoir s’adapter à votre contexte.
 
-[^1]:	[https://methodbrain.com/dsia-research/ux-design-practice-verticals/][1]
-
-[1]:	https://methodbrain.com/dsia-research/ux-design-practice-verticals/ "Davis, 2011"
+[^1]:	UX Design Practice Verticals, Nathaniel Davis, 2011 [https://methodbrain.com/dsia-research/ux-design-practice-verticals/](https://methodbrain.com/dsia-research/ux-design-practice-verticals/)

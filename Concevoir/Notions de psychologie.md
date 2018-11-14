@@ -1,8 +1,4 @@
-- Observer l’existant
-- Analyse de l’activité réelle prescrite
-- Contexte d’usage
-- Le succès de la tâche : l’utilisateur, le contexte, des outils, la tâche
-- L’utilisateur, varation inter/intra
+
 -  Les processus cognitif
 	- Mémoire
 	- Traitement de l’information

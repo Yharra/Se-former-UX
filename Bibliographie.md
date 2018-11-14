@@ -1,4 +1,7 @@
 
-UX Design Practice Verticals, Nathaniel Davis, 2011 [https://methodbrain.com/dsia-research/ux-design-practice-verticals/][1]
-
-[1]:	https://methodbrain.com/dsia-research/ux-design-practice-verticals/
+- UX Design Practice Verticals, Nathaniel Davis, 2011 [https://methodbrain.com/dsia-research/ux-design-practice-verticals/](https://methodbrain.com/dsia-research/ux-design-practice-verticals/)
+- Code de conduite de l’UXPA[https://uxpa.org/sites/default/files/uploads/CoC\_French.pdf](https://uxpa.org/sites/default/files/uploads/CoC_French.pdf)
+- Bernhaupt, R., Obrist, M., and Tscheligi, M. (2007). [Usability and usage of iTV services](https://www.researchgate.net/profile/Marianna_Obrist/publication/220686242_Usability_and_usage_of_iTV_services_Lessons_learned_in_an_Austrian_field_trial/links/02e7e51c0e3ef31c56000000/Usability-and-usage-of-iTV-services-Lessons-learned-in-an-Austrian-field-trial.pdf) : lessons learned in an Austrian field trial. ACM Computer Entertainment. Vol. 5. No. 2 Article 6.
+- Brown, B., Barkhuus, L., [“The Television will be Revolutionized : Effects of PVRs and Filesharing on Television Watching”](http://delivery.acm.org/10.1145/1130000/1124870/p663-brown.pdf). Proceedings of CHI 2006, 663-666.
+- Darnell, M. J. (2007). [How Do People Really Interact With TV? Naturalistic Observations of Digital TV and Digital Video Recorder Users](http://onemvweb.com/sources/ethnography/people_interact_tv.pdf). ACM – Computers in Entertainment, Vol. 5, Issue 2, Article No. 10.
+- La distance d’utilisation nécessite une taille de caractères élevée pour permettre la lisibilité sur le téléviseur, Bertolus, Bailleul, Mersiol, 2017. AFIHM. 29ème conférence francophone sur l'Interaction Homme-Machine, Aug 2017, Poitiers, France. ACM, IHM-2017, 10 p., 2017, http://ihm2017.afihm.org

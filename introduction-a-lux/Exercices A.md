@@ -1,5 +1,0 @@
-
-Je vous proposes quelques exercices pour prendre consciences des différentes phases et des difficultés rencontrés.
-
-- Comprendre le lien entre interface et contexte d’usage : Commander un même billet de train sur différentes interfaces : « Commander un billet de train pour faire Rennes – Pau, à une date précise, pour deux adultes, un enfant de 11 ans et un enfant 15 ans, sur une borne en gare, sur le site de la SNCF, sur l’app SNCF et sur un service tiers comme Trainline. Comparer les prix obtenus, le nombre d’écrans et le temps de réalisation »
-- Observer les usages : Trouvez un endroit où vous pouvez rester un moment sans gêner (terrasse de café, bibliothèque, gare,…) et observer les usages autour de vous sur un sujet en particulier comme . Par exemple, l’usage d’une borne publique, du mobile lors de l’attente en gare ou le passage des portiques sur les quais d’une gare. Donnez-vous des comportements factuels à mesurer comme le nombre de personnes qui passe le portillon sans encombres, avec un délai, qui doivent renoncer ou se faire aider.

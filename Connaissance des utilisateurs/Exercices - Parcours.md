@@ -1,0 +1,6 @@
+
+Je vous propose quelques exercices pour mettre en application ce qui a été vu dans ce chapitre.
+
+Observer son quotidien en détail. On fait un certain nombre d’activités quotidiennes sans forcément y penser vraiment. Je vous propose quelques exercices pour prendre conscience de certaines de ses activités.
+- Garder des traces d’une activité et en faire une étude statistique : Vous utilisez souvent un vélo en libre-service, à chaque fois imprimer le ticket et conserver le. Au bout d’un ou deux mois, faites le bilan de vos déplacements (rythme, trajets, durée) et croisé avec d’autres données comme la météo. Dans la même idée, vous allez souvent au cinéma, au théâtre ou toute autre activité culturelle : Garder les tickets, noter dessus si vous y étiez seuls ou à plusieurs. Au bout quelque temps faites une analyse, vous vous rendrez peut être compte que le mercredi vous voir systématiquement des films d’actions et les dimanches après-midi où il pleut vous allez voir des comédies ?
+- Vous êtes partis en voyage pour le travail ou pour les vacances ? Retracez toutes les démarches que vous avez faites, auprès de qui et par quels moyens ? Avant, pendant le voyage et au retour ? Essayez de noter vos émotions pour chacune de ces étapes.

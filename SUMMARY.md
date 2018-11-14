@@ -1,20 +1,18 @@
 # Table of contents
 
-* [À propos][1]
+* [À propos](README.md)
 
 # contenu
 * Introduction
-	* [Objectifs du livre][2]
-	* [Les compétences de l’UX designer][3]
+	* [Objectifs du livre](Introduction/Objectifs%20du%20livre.md)
+	* [Les compétences de l’UX designer](introduction/les-competences-de-lux-designer.md)
 * Introduction à l’UX
-	* [Petite histoire de l’UX][4]
-	* [Un exemple de projet][5]
-	* L’UX et l’innovation
+	* [Petite histoire de l’UX](introduction-a-lux/histoire.md)
+	* [Un exemple de projet](introduction-a-lux/Exemple.md)
 * Connaissance des utilisateurs
 	* Quelques notions de psychologie
 	* Réaliser des entretiens avec les utilisateurs
-	* Des entretiens aux personas
-	* Restituer les usages
+	* Des entretiens aux personas, Restituer les usages
 * Concevoir pour le web
 	* Les bases de la conception
 	* Accessibilité, Qualité web
@@ -34,10 +32,6 @@
 	* Iconographie
 	* Réaliser des Wireframes
 	* La chaîne de production
-* Design de service
-	* Concevoir un atelier de co-conception
-	* Design sprint
-	* Restituer les ateliers
 * Enrichir ses connaissances sur les utilisateurs
 	* Statistiques et expérimentations
 	* Psychologie appliqué à l’UX
@@ -45,20 +39,18 @@
 	* Sur mobile
 	* Dans un éco-système
 * Stratégie UX
+	* Modèle UX
 	* Construire ses propres outils
 	* Agile et ux
 	* Comment faire entrer l’UX en entreprise ?
 	* Design et éthique
 	* Vers un design humain
-*  Concevoir pour un nouveau support
+* Design de service
+	* Concevoir un atelier de co-conception
+	* Design sprint
+	* Restituer les ateliers
+* Concevoir pour un nouveau support
 	* Objets connectés
 	* Créer un guidelines
 * Annexes
-	* [Bibliographie][6]
-
-[1]:	README.md
-[2]:	Introduction/Objectifs%20du%20livre.md
-[3]:	introduction/les-competences-de-lux-designer.md
-[4]:	introduction-a-lux/histoire.md
-[5]:	introduction-a-lux/Exemple.md
-[6]:	Bibliographie.md
+	* [Bibliographie](Bibliographie.md)
